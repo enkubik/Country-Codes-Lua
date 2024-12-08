@@ -1,4 +1,4 @@
-local countries = {
+{
 	['US'] = { name = 'United States', decal = 'rbxassetid://6764359716' },
 	['GB'] = { name = 'United Kingdom', decal = 'rbxassetid://6764345672' },
 	['CA'] = { name = 'Canada', decal = 'rbxassetid://6764337760' },
