@@ -1,4 +1,6 @@
-  ['US'] = { name = 'United States', decal = 'rbxassetid://6764359716' },
+
+local countries = {
+	['US'] = { name = 'United States', decal = 'rbxassetid://6764359716' },
 	['GB'] = { name = 'United Kingdom', decal = 'rbxassetid://6764345672' },
 	['CA'] = { name = 'Canada', decal = 'rbxassetid://6764337760' },
 	['AF'] = { name = 'Afghanistan', decal = 'rbxassetid://6882819845' },
@@ -246,4 +248,5 @@
 	['CU'] = { name = 'Cuba', decal = 'rbxassetid://6882819901' },
 	['IR'] = { name = 'Iran', decal = 'rbxassetid://6764372481' },
 	['SY'] = { name = 'Syria', decal = 'rbxassetid://6763802796' },
-	['KP'] = { name = 'North Korea', decal = 'rbxassetid://6882819904' },
+	['KP'] = { name = 'North Korea', decal = 'rbxassetid://6882819904' }
+}
